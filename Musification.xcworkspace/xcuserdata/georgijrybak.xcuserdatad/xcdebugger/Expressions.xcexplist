@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SignUpViewController.displayKeyboardShowing(viewModel:):SignUpViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "contentInset">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

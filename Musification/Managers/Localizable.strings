@@ -1,0 +1,149 @@
+/* 
+  Localized.strings
+  Musification
+
+  Created by Георгий Рыбак on 7.02.22.
+  
+*/
+
+"musicFolderLabel" = "Music collected\n especially for you";
+
+"likeLabel" = "Sound\n that pleases";
+
+"earphoneLabel" = "Listen on any device\n even without internet";
+
+"skip" = "Skip";
+
+"next" = "Next";
+
+"signin" = "Sing In";
+
+"signup" = "Sing Up";
+
+"forgotpassword" = "Forgot your password?";
+
+"dontHaveAcc" = "Don't have an account?";
+
+"username" = "Username";
+
+"alreadyHaveAccount" = "Already have an account?";
+
+"emailOrUsername" = "Email or Username";
+
+"password" = "Password";
+
+"confPasword" = "Confirm password";
+
+"emailError" = "That doesn’t look like real email address. Try again?";
+
+"agreeWithTermsAndPolicy" = "I agree to the Terms of Use and Privacy Policy";
+
+"termsOfUseLink" = "TermsOfUse";
+"privacyPolicyLink" = "PrivacyPolicy";
+
+"passwordErrorText" = "Your password must:
+Be at least six characters long
+Contain one or more numbers
+Include at least one of the following characters: !”$%'()*+,-./:;<=>?@[\]^_`{|}~ or a space";
+
+"confirmPasswordError" = "Passwords don’t match";
+
+"userNameError" = "Sorry, this username isn’t available";
+
+"emailOrUserNameError" = "Email or Username is not correct";
+
+"termsError" = "Please, agree to these terms first.";
+
+"fieldsError" = "Please, fill all fields.";
+
+"registrationError" = "Registration error";
+
+"emilVerificationError" = "Email is not verified";
+
+"sendResetLink" = "Send reset link";
+
+"forgotPasswordLable" = "Forgot your Musification password?";
+
+"signOut" = "Sign out";
+
+"discover" = "Discover";
+
+"forgotPasswordDescriptionLable" = "Enter your email or username and we'll send you a reminder of your details along with instructions on how to reset your password.";
+
+"successMessage" = "Hey %@, you need to verify your email address! Click the link in your email which was sent to %@";
+
+"sucessResetPasswordMessage" = "Check your inbox, we’ve sent you instructions on how to reset your password!";
+
+"termsOfUse" = "
+We reserve the right at any time to:
+
+1. Change the terms and conditions of this Agreement;
+2. Change the App, including eliminating or discontinuing any content on or feature of the Site;
+3. Change any fees or charges for use of the App.
+
+Any changes we make will be effective immediately upon notice, which we may provide by means including, without limitation, posting on the App        or electronic mail. Your continued use of the App following such changes will be deemed acceptance of such changes. Be sure to return to this page periodically to ensure familiarity with the most current version of this Agreement.
+
+Registration
+
+When and if you register, you agree to (a) provide accurate, current and complete information about yourself as prompted by our registration form (including your email address) and (b) maintain       and update your information (including your email address) to keep it accurate, current and complete. You acknowledge that, if any information provided    by you (or on your behalf under your direction or knowledge) is untrue, inaccurate, not current or incomplete or contains a misrepresentation, we reserve the right to terminate this Agreement and   your use of the App and/or disclose to our members what other members you had applied to consistent with our Terms of Use.
+
+Code of Conduct
+
+While using the Site or Materials, you agree not to:
+
+1. Restrict or inhibit any other visitor, user or member from using the App, including, without limitation, by means of \"hacking\" or defacing any portion of the App;
+
+2. Use the App or Materials for any unlawful purpose;
+
+3. Use the App or Materials to engage in any act of fraud, misrepresentation or other unethical behavior;
+
+4. Express or imply that any statements you make are endorsed by us, without our prior written consent;
+
+5. Transmit (a) any content or information that is unlawful, fraudulent, threatening, abusive, libelous, defamatory, obscene or otherwise objectionable, or infringes our or any third party’s intellectual property or other rights; (b) any material, non-public information about companies without the authorization to do so; (c) any trade secret of any third party; or (d) any advertisements, solicitations, chain letters, pyramid schemes, investment opportunities or other unsolicited commercial communication (except as otherwise expressly permitted by us);
+
+6. Engage in spamming or flooding;
+
+7. Transmit any software or other materials that contain any viruses, worms, trojan horses, defects, date bombs, time bombs or other items of a destructive nature;
+";
+
+"privacyPolicy" = "
+We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.
+
+This Privacy Policy does not apply to the third-party online/mobile store from which you install the Application or make payments, including any in-game virtual items, which may also collect and use data about you. We are not responsible for any of the data collected by any such third party.
+
+Collection of your information
+
+We may collect information about you in a variety of ways. The information we may collect via the Application depends on the content and materials you use, and includes:
+
+1. Personal Data
+
+Demographic and other personally identifiable information (such as your name and email address) that you voluntarily give to us when choosing to participate in various activities related to the Application, such as chat, posting messages in comment sections or in our forums, liking posts, sending feedback, and responding to surveys. If you choose to share data about yourself via your profile, online chat, or other interactive areas of the Application, please be advised that all data you disclose in these areas is public and your data will be accessible to anyone who accesses the Application.
+
+2. Derivative Data
+
+Information our servers automatically collect when you access the Application, such as your native actions that are integral to the Application, including liking, re-blogging, or replying to a post, as well as other interactions with the Application and other users via server log files.
+
+3. Financial Data
+
+Financial information, such as data related to your payment method (e.g. valid credit card number, card brand, expiration date) that we may collect when you purchase, order, return, exchange, or request information about our services from the Application. We store only very limited, if any, financial information that we collect. Otherwise, all financial information is stored by our payment processor, [Payment Processor Name], and you are encouraged to review their privacy policy and contact them directly for responses to your questions.
+
+4. Google Permissions
+
+The Application may by default access your Google basic account information, including your name, email, gender, birthday, current city, and profile picture URL, as well as other information that you choose to make public.For more information regarding Google permissions, refer to the Google Permissions Reference page.
+
+5. Geo-Location Information
+
+We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using the Application, to provide location-based services. If you wish to change our access or permissions, you may do so in your device’s settings.
+
+6. Mobile Device Access
+
+We may request access or permission to certain features from your mobile device, including your mobile device’s [list all features that your app can connect to (eg. bluetooth)]. If you wish to change our access or permissions, you may do so in your device’s settings.
+
+7. Mobile Device Data
+
+Device information such as your mobile device ID number, model, and manufacturer, version of your operating system, phone number, country, location, and any other data you choose to provide.
+
+8. Push Notifications
+
+We may request to send you push notifications regarding your account or the Application. If you wish to opt-out from receiving these types of communications, you may turn them off in your device’s settings.
+";
